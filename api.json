@@ -7,10 +7,12 @@
       "priority": "high",
       "status": "pending",
       "due_date": "2025-03-15T18:00:00Z",
-      "notification": {
-        "enabled": true,
-        "reminder_time": "2025-03-15T12:00:00Z"
-      }
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-15T12:00:00Z"
+        }
+      ]
     },
     {
       "id": 2,
@@ -19,10 +21,16 @@
       "priority": "medium",
       "status": "upcoming",
       "due_date": "2025-03-16T10:00:00Z",
-      "notification": {
-        "enabled": true,
-        "reminder_time": "2025-03-16T09:30:00Z"
-      }
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-16T09:30:00Z"
+        },
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-16T09:45:00Z"
+        }
+      ]
     },
     {
       "id": 3,
@@ -31,10 +39,7 @@
       "priority": "low",
       "status": "completed",
       "due_date": "2025-03-14T07:00:00Z",
-      "notification": {
-        "enabled": false,
-        "reminder_time": null
-      }
+      "notifications": []
     }
   ]
 }
