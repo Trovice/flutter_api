@@ -40,6 +40,62 @@
       "status": "completed",
       "due_date": "2025-03-14T07:00:00Z",
       "notifications": []
+    },
+    {
+      "id": 4,
+      "title": "Study for exams",
+      "description": "Review notes and practice problems for upcoming exams.",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2025-03-18T15:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-18T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Grocery shopping",
+      "description": "Buy ingredients for the week’s meals.",
+      "priority": "low",
+      "status": "upcoming",
+      "due_date": "2025-03-17T14:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-17T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Project presentation",
+      "description": "Prepare slides and practice for the presentation.",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2025-03-20T09:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-20T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Dinner with friends",
+      "description": "Meet friends for dinner at a local restaurant.",
+      "priority": "medium",
+      "status": "upcoming",
+      "due_date": "2025-03-21T19:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-03-21T18:30:00Z"
+        }
+      ]
     }
   ]
 }
