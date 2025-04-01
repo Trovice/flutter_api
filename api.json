@@ -96,6 +96,118 @@
           "reminder_time": "2025-04-12T18:30:00Z"
         }
       ]
+    },
+    {
+      "id": 8,
+      "title": "Work on capstone project",
+      "description": "Research, develop features, and document progress for capstone project.",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2025-04-05T10:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-05T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Attend webinar on IT trends",
+      "description": "Learn about the latest developments in IT and cybersecurity.",
+      "priority": "medium",
+      "status": "upcoming",
+      "due_date": "2025-04-05T14:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-05T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Client meeting",
+      "description": "Present project updates to the client and discuss next steps.",
+      "priority": "high",
+      "status": "upcoming",
+      "due_date": "2025-04-06T15:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-06T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Team brainstorming session",
+      "description": "Collaborate with team on ideas for upcoming feature releases.",
+      "priority": "medium",
+      "status": "upcoming",
+      "due_date": "2025-04-06T13:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-06T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Clean workspace",
+      "description": "Organize and tidy up the desk and working area.",
+      "priority": "low",
+      "status": "pending",
+      "due_date": "2025-04-07T08:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-07T07:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Write blog post on new tech trends",
+      "description": "Write an article discussing the latest advancements in technology.",
+      "priority": "medium",
+      "status": "upcoming",
+      "due_date": "2025-04-08T11:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-08T10:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Update portfolio",
+      "description": "Add new projects and skills to the online portfolio.",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2025-04-09T17:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-09T16:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Read new cybersecurity book",
+      "description": "Read the first chapter of the new cybersecurity book for inspiration.",
+      "priority": "low",
+      "status": "upcoming",
+      "due_date": "2025-04-05T09:00:00Z",
+      "notifications": [
+        {
+          "enabled": true,
+          "reminder_time": "2025-04-05T08:30:00Z"
+        }
+      ]
     }
   ]
 }
